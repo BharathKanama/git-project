@@ -1,0 +1,7 @@
+git clone <repo url>            --- to get the files to your local environment
+git add "Day4.py"               --- to add files
+git commit -m "message"         --- to commit changes 
+git remote add git-project https://github.com/BharathKanama/git-project         --- this used to establish comnnection betwenn local env & branch (doesn't require if it is cloned before)
+git push                        --- to push changes in repo
+git pull                        --- to get the changes in your files in cloud repo
+git checkout <branch name>      --- to move from existing branch to another branch
